@@ -25,6 +25,6 @@
   - Created Tooltip
 
 
-See the full dashboard here - [Cookies_Chocolates Dashboard Power BI Link](https://app.powerbi.com/groups/me/reports/a7d4aac3-6505-437c-8ba4-7475b8cafee4/c6a43ffb8044c3498e60?experience=power-bi)
+See the full dashboard here - [Cookies_Chocolates Dashboard Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiYzA1Nzc3OWItZjA2ZS00MzI1LWFmYjQtMDhhODE1ZDkzNGFjIiwidCI6IjgwODgwMDkxLWY0MzMtNGE3Zi1hMDNkLWJmNDRlNDM1ZjIzOSJ9)
 
 [!Portfolio Dashboard Project][](Cookies_Chocolates.PNG)
